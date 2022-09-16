@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio_hospital.git/static/css/main.045290fe.css",
-    "main.js": "/portfolio_hospital.git/static/js/main.875351cc.js",
-    "static/media/main_visual02.jpg": "/portfolio_hospital.git/static/media/main_visual02.c4b66dd5f1ecfcf7ff15.jpg",
-    "static/media/main_visual03.jpg": "/portfolio_hospital.git/static/media/main_visual03.c7cdb721e53b2a20872e.jpg",
-    "static/media/main_visual01.jpg": "/portfolio_hospital.git/static/media/main_visual01.a183d8d91dc3f56ca9c2.jpg",
-    "static/media/section2_bg.jpg": "/portfolio_hospital.git/static/media/section2_bg.c918057e876824ad4688.jpg",
-    "static/media/section1_bg.jpg": "/portfolio_hospital.git/static/media/section1_bg.bb74e5d069ee6bde0ceb.jpg",
-    "index.html": "/portfolio_hospital.git/index.html",
-    "main.045290fe.css.map": "/portfolio_hospital.git/static/css/main.045290fe.css.map",
-    "main.875351cc.js.map": "/portfolio_hospital.git/static/js/main.875351cc.js.map"
+    "main.css": "/portfolio_hospital/static/css/main.51b44366.css",
+    "main.js": "/portfolio_hospital/static/js/main.2604f48c.js",
+    "static/media/main_visual02.jpg": "/portfolio_hospital/static/media/main_visual02.c4b66dd5f1ecfcf7ff15.jpg",
+    "static/media/main_visual03.jpg": "/portfolio_hospital/static/media/main_visual03.c7cdb721e53b2a20872e.jpg",
+    "static/media/main_visual01.jpg": "/portfolio_hospital/static/media/main_visual01.a183d8d91dc3f56ca9c2.jpg",
+    "static/media/section2_bg.jpg": "/portfolio_hospital/static/media/section2_bg.c918057e876824ad4688.jpg",
+    "static/media/section1_bg.jpg": "/portfolio_hospital/static/media/section1_bg.bb74e5d069ee6bde0ceb.jpg",
+    "index.html": "/portfolio_hospital/index.html",
+    "main.51b44366.css.map": "/portfolio_hospital/static/css/main.51b44366.css.map",
+    "main.2604f48c.js.map": "/portfolio_hospital/static/js/main.2604f48c.js.map"
   },
   "entrypoints": [
-    "static/css/main.045290fe.css",
-    "static/js/main.875351cc.js"
+    "static/css/main.51b44366.css",
+    "static/js/main.2604f48c.js"
   ]
 }
