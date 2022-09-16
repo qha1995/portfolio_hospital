@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/qha1995/portfolio_hospital.git/static/css/main.d9010213.css",
-    "main.js": "/qha1995/portfolio_hospital.git/static/js/main.7bcfbde9.js",
-    "static/media/main_visual02.jpg": "/qha1995/portfolio_hospital.git/static/media/main_visual02.c4b66dd5f1ecfcf7ff15.jpg",
-    "static/media/main_visual03.jpg": "/qha1995/portfolio_hospital.git/static/media/main_visual03.c7cdb721e53b2a20872e.jpg",
-    "static/media/main_visual01.jpg": "/qha1995/portfolio_hospital.git/static/media/main_visual01.a183d8d91dc3f56ca9c2.jpg",
-    "static/media/section2_bg.jpg": "/qha1995/portfolio_hospital.git/static/media/section2_bg.c918057e876824ad4688.jpg",
-    "static/media/section1_bg.jpg": "/qha1995/portfolio_hospital.git/static/media/section1_bg.bb74e5d069ee6bde0ceb.jpg",
-    "index.html": "/qha1995/portfolio_hospital.git/index.html",
-    "main.d9010213.css.map": "/qha1995/portfolio_hospital.git/static/css/main.d9010213.css.map",
-    "main.7bcfbde9.js.map": "/qha1995/portfolio_hospital.git/static/js/main.7bcfbde9.js.map"
+    "main.css": "/portfolio_hospital.git/static/css/main.045290fe.css",
+    "main.js": "/portfolio_hospital.git/static/js/main.875351cc.js",
+    "static/media/main_visual02.jpg": "/portfolio_hospital.git/static/media/main_visual02.c4b66dd5f1ecfcf7ff15.jpg",
+    "static/media/main_visual03.jpg": "/portfolio_hospital.git/static/media/main_visual03.c7cdb721e53b2a20872e.jpg",
+    "static/media/main_visual01.jpg": "/portfolio_hospital.git/static/media/main_visual01.a183d8d91dc3f56ca9c2.jpg",
+    "static/media/section2_bg.jpg": "/portfolio_hospital.git/static/media/section2_bg.c918057e876824ad4688.jpg",
+    "static/media/section1_bg.jpg": "/portfolio_hospital.git/static/media/section1_bg.bb74e5d069ee6bde0ceb.jpg",
+    "index.html": "/portfolio_hospital.git/index.html",
+    "main.045290fe.css.map": "/portfolio_hospital.git/static/css/main.045290fe.css.map",
+    "main.875351cc.js.map": "/portfolio_hospital.git/static/js/main.875351cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9010213.css",
-    "static/js/main.7bcfbde9.js"
+    "static/css/main.045290fe.css",
+    "static/js/main.875351cc.js"
   ]
 }
